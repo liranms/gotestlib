@@ -1,3 +1,3 @@
-module github.com/liranms/gotestlib/v2
+module github.com/liranms/gotestlib
 
 go 1.15
