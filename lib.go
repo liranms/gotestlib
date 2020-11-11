@@ -1,6 +1,6 @@
 package gotestlib
 
-func ExportedFunc() int {
+func ExportedFunc() float64 {
 	return 7
 }
 
