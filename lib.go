@@ -1,7 +1,7 @@
 package gotestlib
 
 func ExportedFunc() int {
-	return 3
+	return 4
 }
 
 type SomeStruct struct {
