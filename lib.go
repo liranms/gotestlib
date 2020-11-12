@@ -1,7 +1,7 @@
 package gotestlib
 
-func ExportedFunc() float64 {
-	return 9
+func ExportedFunc(i int) float64 {
+	return float64(i)
 }
 
 type SomeStruct struct {
